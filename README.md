@@ -30,6 +30,6 @@ Permite **alugar e devolver jogos** de forma visual e intuitiva, alterando o sta
 ## 🖥️ Como executar
 
 1. Baixe ou clone este repositório:
-   git clone https://github.com/usuario/alugames.git
+   git clone https://github.com/orenanfelix43/alugames.git
 2. Abra o arquivo index.html em qualquer navegador moderno.
 3. Clique em Alugar ou Devolver para interagir com os jogos. 🎉
